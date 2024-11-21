@@ -3,3 +3,4 @@ ucsc-liftover
 bedtools
 fastqc
 hisat2
+samtools
